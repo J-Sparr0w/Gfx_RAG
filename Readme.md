@@ -22,7 +22,8 @@
 
 
 ## How To Run:
-    * to run ollama: ```ollama serve```
-    * run notebook
+* to run ollama: ```ollama serve```
+* run notebook
+
 # Requirements to run:
 * Ollama must be installed and running
